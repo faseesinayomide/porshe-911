@@ -290,6 +290,7 @@ nav ul li a:hover {
 
 .right {
     width: 50%;
+    padding: 3% 0 3% 0;
     background-color: rgba(226, 224, 222, 0.705);
 }
 
@@ -311,9 +312,10 @@ nav ul li a:hover {
 .contenit a {
     display: flex;
     justify-content: left;
-    padding: 7px 9px;
+    padding: 10px 10px;
     color: rgb(0, 0, 0);
     margin-left: 10px;
+    margin-right: 65%;
     text-decoration: none;
     border: 2px solid black;
 }
